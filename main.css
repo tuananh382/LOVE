@@ -231,7 +231,7 @@ div#panel:before {
 	content: "DO YOU LOVE ME";
 	top: 3vmin;
 	position: relative;
-	font-size: 10vmin;
+	font-size: 8vmin;
 	width: 100vw;
 	left: 0;
 	z-index: 6;
@@ -295,6 +295,7 @@ div#panel2::before {
 #msg {
 	margin-top: 5vmin;
 	text-shadow: 0 0 2px #fff;
+    font-size: 50px;
 }
 
 #time {
