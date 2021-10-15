@@ -61,7 +61,7 @@ abort.addEventListener("click", function () {
 	alarm.pause();
 	alarm.currentTime = 10;
 	alarm.play();
-    
+   
 });
 
 var no = document.getElementById("no");
